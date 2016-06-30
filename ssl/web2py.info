@@ -1,0 +1,42 @@
+SHA1 Fingerprint=E9:FA:B9:D2:BC:70:7D:E5:00:9A:53:45:ED:8E:7A:1A:54:6B:00:0C
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 14119483683483549862 (0xc3f27b9a15f600a6)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Florida, L=Palm Harbor, O=b4 Media, LLC., CN=abstraction.space/emailAddress=mic@b4ker.com
+        Validity
+            Not Before: Jun 25 19:02:52 2016 GMT
+            Not After : May 10 19:02:52 2021 GMT
+        Subject: C=US, ST=Florida, L=Palm Harbor, O=b4 Media, LLC., CN=abstraction.space/emailAddress=mic@b4ker.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9c:b5:61:58:c4:3b:c8:f2:5c:e7:c8:de:9a:d2:
+                    78:21:dc:a8:15:35:35:31:d5:06:f4:d4:fe:aa:6f:
+                    27:55:63:8c:9a:0c:e7:ab:38:97:e5:ff:c2:6a:3d:
+                    af:c1:78:3d:f0:32:37:df:59:c9:14:8c:7e:bf:13:
+                    26:90:b9:17:2c:bd:e5:af:00:2f:18:d0:ce:ee:ed:
+                    65:5d:20:8f:16:eb:51:73:32:fe:45:ab:75:58:20:
+                    96:81:58:c0:df:28:2b:dc:d1:ae:06:96:69:ff:2e:
+                    13:e1:9b:86:bb:80:f0:d1:cf:1b:be:47:c9:fd:16:
+                    ff:84:2a:34:68:7d:9e:01:65
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                B4:52:95:F3:04:81:5C:F1:66:70:76:A9:A9:8C:35:74:01:15:04:CC
+            X509v3 Authority Key Identifier: 
+                keyid:B4:52:95:F3:04:81:5C:F1:66:70:76:A9:A9:8C:35:74:01:15:04:CC
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         47:b7:4a:04:2b:95:f4:0f:2a:53:d1:96:ec:51:d6:4c:f8:da:
+         d1:99:7a:18:0e:17:8b:f7:81:8c:2f:e7:84:6c:2f:df:3d:8b:
+         28:4f:f7:68:2f:37:19:51:c2:69:4e:ff:9e:c7:53:35:d0:5b:
+         27:3a:a5:fa:60:96:1c:62:bb:6e:0c:3f:6f:23:cc:83:6c:b6:
+         5a:b5:dc:28:77:02:32:6b:9f:2b:10:c8:22:ba:b0:75:2f:0d:
+         0c:09:2e:b4:a8:8d:c7:dd:a0:1d:da:af:d6:e3:ac:76:ca:59:
+         14:83:67:5d:80:72:93:e8:8b:a2:5e:e6:20:6d:cc:da:bc:83:
+         6e:16
